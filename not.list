@@ -1,0 +1,15 @@
+# 本地自定义规则
+DOMAIN,api.hevyapp.com,策略选择
+DOMAIN,s1.nordcdn.com,策略选择
+DOMAIN,saily.com,策略选择
+DOMAIN,liangxin.xyz,策略选择
+DOMAIN,api3.bybit.biz,人工智能
+DOMAIN,www.bybit.com,人工智能
+DOMAIN,s1.bycsi.com,人工智能
+DOMAIN,subcrib.vpnmiao.com,策略选择
+DOMAIN,i.imgur.com,策略选择
+DOMAIN,ctm.net,策略选择
+DOMAIN,tf.apprcn.com,策略选择
+DOMAIN,uts-front.line-apps.com,台湾节点
+DOMAIN,obs-us.line-apps.com,台湾节点
+DOMAIN,line.me,台湾节点
